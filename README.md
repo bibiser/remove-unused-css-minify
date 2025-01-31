@@ -133,10 +133,6 @@ h1.underlined {
 .container p ~ .highlight {
     color: red;
 }
-/* Attribute Selectors */
-.footer [data-type="footer-text"] {
-    color: gray;
-}
 ```
 ### Example Minify
 
